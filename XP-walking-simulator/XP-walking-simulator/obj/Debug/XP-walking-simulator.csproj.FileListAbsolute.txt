@@ -8,3 +8,14 @@ G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj
 G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.exe
 G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.pdb
 G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP_walking_simulator.Form1.resources
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.exe.config
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.exe
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.pdb
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.AssemblyReference.cache
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.SuggestedBindingRedirects.cache
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP_walking_simulator.Form1.resources
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP_walking_simulator.Properties.Resources.resources
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.GenerateResource.cache
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.CoreCompileInputs.cache
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.exe
+D:\Users\Vojta\Práce\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.pdb

@@ -18,7 +18,7 @@ namespace XP_walking_simulator
             }
         }
         
-        public int Level { get; private set; }
+        public int Level { get; protected set; }
         
         public int X { get; private set; }
         public int Y { get; private set; }
@@ -30,7 +30,7 @@ namespace XP_walking_simulator
         }
         public override string ToString()
         {
-            return base.ToString();
+            return string.Format("Jmeno {0};Level {1};X {2};Y {3}",jmeno,Level,X,Y);
         }
 
         public HerniPostava()
