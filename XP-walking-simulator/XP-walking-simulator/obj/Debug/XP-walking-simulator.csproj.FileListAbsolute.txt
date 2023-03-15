@@ -1,0 +1,10 @@
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.exe.config
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.exe
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\bin\Debug\XP-walking-simulator.pdb
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csprojAssemblyReference.cache
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP_walking_simulator.Properties.Resources.resources
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.GenerateResource.cache
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.csproj.CoreCompileInputs.cache
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.exe
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP-walking-simulator.pdb
+G:\RPR\GitHub\XP-walking-simulator\XP-walking-simulator\XP-walking-simulator\obj\Debug\XP_walking_simulator.Form1.resources
