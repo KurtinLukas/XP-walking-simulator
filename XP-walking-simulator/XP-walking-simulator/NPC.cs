@@ -26,7 +26,7 @@ namespace XP_walking_simulator
 
         public override void ZmenaPozice(int x, int y)
         {
-
+            return;
         }
 
         public override string ToString()
